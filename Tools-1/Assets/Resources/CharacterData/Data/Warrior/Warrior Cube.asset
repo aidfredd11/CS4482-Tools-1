@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dab8138a93b1abc47a280a8c95b05f19, type: 3}
-  m_Name: New Warrior Data
+  m_Name: Warrior Cube
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
-  maxHealth: 0
-  maxEnergy: 0
-  criticalChance: 0
-  power: 0
-  name: 
+  prefab: {fileID: 982446288297474455, guid: a8b9e7e759ae64443ab75a18b42a67a5, type: 3}
+  maxHealth: 50
+  maxEnergy: 90
+  criticalChance: 66
+  power: 100
+  name: Warrior Cube
   classType: 0
   weaponType: 0

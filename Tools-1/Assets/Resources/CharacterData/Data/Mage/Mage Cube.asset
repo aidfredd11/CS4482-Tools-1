@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7f21361439c3fbb4ea499b9e180ad965, type: 3}
-  m_Name: New Mage Data
+  m_Name: Mage Cube
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
-  maxHealth: 0
-  maxEnergy: 0
-  criticalChance: 0
-  power: 0
-  name: 
+  prefab: {fileID: 982446288297474455, guid: a8b9e7e759ae64443ab75a18b42a67a5, type: 3}
+  maxHealth: 100
+  maxEnergy: 100
+  criticalChance: 17.3
+  power: 67.2
+  name: Mage Cube
   damageType: 0
   weaponType: 0
